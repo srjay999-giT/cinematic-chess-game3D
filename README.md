@@ -183,13 +183,15 @@ cinematic-chess-game3D/
 
 ## 🗺️ Roadmap
 
+### Planned Features
+
 - [ ] Online Multiplayer Matchmaking
 - [ ] User Accounts & Authentication
-- [ ] Global Leaderboards & Ratings
+- [ ] Global Leaderboards & Elo Ratings
 - [ ] Daily Chess Challenges
 - [ ] Curated Puzzle Mode
-- [ ] Customizable 3D Themes & Board Materials
-- [ ] Blockchain Achievement System
+- [ ] Additional 3D Themes & Board Materials
+- [ ] Blockchain Achievement Badge System
 
 ---
 
