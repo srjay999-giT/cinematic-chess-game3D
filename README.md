@@ -14,7 +14,7 @@
 
 <br />
 
-<a href="https://your-demo-url-here.com" target="_blank">
+<a href="https://cinematic-chess-game3d.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Play_Live_Demo-8E35FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Live Demo" height="40" />
 </a>
 
